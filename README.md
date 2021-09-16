@@ -4,8 +4,11 @@ Aplicação desenvolvida em Java para consulta de cotações de ações listadas
 
 ##
 
-Todas as cotações são provenientes da MFinance API, podendo apresentar atraso dos valores negociados na B3.
-https://mfinance.com.br/swagger/index.html
+Todas as cotações são provenientes de fontes de dados terceiras, podendo apresentar atraso e/ou diferenças dos valores negociados na B3.
+
+> Yahoo Finance - https://finance.yahoo.com
+
+> MFinance API - https://mfinance.com.br/swagger/index.html
 
 ----------------------------------------------------------------------------------
 
